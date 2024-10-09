@@ -10,3 +10,5 @@ def test_substraction():
 def test_multiplication():
     result = multiply_numbers(5,7)
     assert result == 35
+
+print("pufu e gras")
